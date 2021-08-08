@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @E-MRE
-- 👀 I’m interested in mobile applications and games.
-- 🌱 I’m currently learning React Native
-
-<!---
-E-MRE/E-MRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center"><a id="user-content--hi-there--im-emre-gültekir" class="anchor" aria-hidden="true" href="#-hi-there--im-emre-gültekir"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Hi there <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif"><img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30" style="max-width:100%;"></a>, I'm Emre Gültekir</h1>
 <p align="center">
-  I am studying Computer Engineering at <b>Mehmet Akif Ersoy University</b>. 
+  I graduated Computer Engineering at <b>Bilecik University</b>. 
 </p>
 <p align="center">
   <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://camo.githubusercontent.com/6e96db984bab2f5f10e0ab537f46844c9a5a94327d828604fb0731bf03c7cbae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676973742d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gist-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
